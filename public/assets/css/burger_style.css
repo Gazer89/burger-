@@ -1,0 +1,46 @@
+body {
+    background-image: url("../img/images.jpg");
+    background-repeat: no-repeat;
+    background-color: #282828;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+    margin-left: 30%;
+}
+
+ul {
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+
+.well {
+    background-color: azure;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.devoure {
+    align-self: right;
+}
+
+.space{
+    height: 20px;
+}
+
+h1, h3, label {
+    color: white;
+}
+
+h1 {
+    margin-left: 33%;
+}
+
+form {
+    margin-left: 20%;
+}
+
+
